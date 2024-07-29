@@ -1,0 +1,5 @@
+bir wrapper olsun
+içinde 3 adet daha div olsun
+divlerin border'ı olsun 
+bu divler yan yana olsun. Ortadaki div diğerlerinden üstte olsun. 
+ikinci div hover durumunda background image değiştirsin.

@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0 200px;
+  height: 480px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+}
+
+.top-part {
+  display: flex;
+  justify-content: center;
+}
+
+.bottom-part {
+  display: flex;
+  justify-content: space-around;
+}
+
+.first-div {
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+}
+
+.second-div {
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+}
+.second-div:hover {
+  background-image: url("insider.png");
+}
+
+.third-div {
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+}
